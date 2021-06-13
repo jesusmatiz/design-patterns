@@ -11,6 +11,7 @@ Todos los patrones de diseño tendran su video explicativo en mi canal de Youtub
 Este patrón proporciona mecanismos de creación de objetos que incrementan la flexibilidad y la reutilización del código.
 
  - Factory
+   - [Ver en Youtube - Factory Pattern](https://www.youtube.com/watch?v=HSSbD7RKrgQ)
  - Abstract Factory
  - Builder 
  - Prototype
