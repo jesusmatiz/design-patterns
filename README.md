@@ -13,6 +13,7 @@ Este patrón proporciona mecanismos de creación de objetos que incrementan la f
  - Factory
    - [Ver en Youtube - Factory Pattern](https://www.youtube.com/watch?v=HSSbD7RKrgQ)
  - Abstract Factory
+   - [Ver en Youtube - Abstract Factory Pattern](https://www.youtube.com/watch?v=yQ4omlezvlE)
  - Builder 
  - Prototype
  - Singleton
