@@ -17,6 +17,7 @@ Este patrón proporciona mecanismos de creación de objetos que incrementan la f
  - Builder 
  - Prototype
  - Singleton
+   - [Ver en Youtube - Singleton Pattern](https://youtu.be/I2r4LL9ZhbU)
 
 ## 2.2 Patrones estructurales
 Este patrón explica como examblar objectos y clases en estructuras mas grandes, y como se mantiene la flexibilidad y la eficacia estructural.
