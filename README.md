@@ -17,6 +17,7 @@ Este patrón proporciona mecanismos de creación de objetos que incrementan la f
  - Builder 
    - [Ver en Youtube - Builder Pattern](https://www.youtube.com/watch?v=JrbaVHg05PU)
  - Prototype
+   - [Ver en Youtube - Prototype Pattern](https://youtu.be/ghVX8UFTBZw)
  - Singleton
    - [Ver en Youtube - Singleton Pattern](https://youtu.be/I2r4LL9ZhbU)
 
