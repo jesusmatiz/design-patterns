@@ -1,0 +1,11 @@
+package com.design.patterns.structural.bridge;
+
+/**
+ * Interface para implementar el bridge
+ * @author admin
+ *
+ */
+public interface DrawAPI {
+	
+	void drawCircle(int radius, int x, int y);
+}

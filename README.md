@@ -27,6 +27,7 @@ Este patrón explica como esamblar objetos y clases en estructuras mas grandes, y
  - Adapter
     - [Ver en Youtube - Adapter Pattern](https://youtu.be/XFUzAFm58s0)
  - Bridge
+     - [Ver en Youtube - Bridge Pattern](https://youtu.be/AXxtm2Cp-Hs)
  - Composite
  - Decorator
  - Facade
