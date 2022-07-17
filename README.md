@@ -29,6 +29,7 @@ Este patr�n explica como esamblar objetos y clases en estructuras mas grandes,
  - Bridge
      - [Ver en Youtube - Bridge Pattern](https://youtu.be/AXxtm2Cp-Hs)
  - Composite
+ 	- [Ver en Youtube - Composite Pattern](https://youtu.be/mbI4mriD8s8)
  - Decorator
  - Facade
  - Filter
