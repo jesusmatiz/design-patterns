@@ -8,7 +8,7 @@ Todos los patrones de diseño tendran su video explicativo en mi canal de Youtub
 # 2. Categorias de patrones
 
 ## 2.1 Patrones creacionales
-Este patr�n proporciona mecanismos de creaci�n de objetos que incrementan la flexibilidad y la reutilización del código.
+Este patron proporciona mecanismos de creacion de objetos que incrementan la flexibilidad y la reutilización del código.
 
  - Factory
    - [Ver en Youtube - Factory Pattern](https://www.youtube.com/watch?v=HSSbD7RKrgQ)
@@ -22,7 +22,7 @@ Este patr�n proporciona mecanismos de creaci�n de objetos que incrementan la
    - [Ver en Youtube - Singleton Pattern](https://youtu.be/I2r4LL9ZhbU)
 
 ## 2.2 Patrones estructurales
-Este patr�n explica como esamblar objetos y clases en estructuras mas grandes, y como se mantiene la flexibilidad y la eficacia estructural.
+Este patron explica como esamblar objetos y clases en estructuras mas grandes, y como se mantiene la flexibilidad y la eficacia estructural.
 
  - Adapter
     - [Ver en Youtube - Adapter Pattern](https://youtu.be/XFUzAFm58s0)
@@ -31,6 +31,7 @@ Este patr�n explica como esamblar objetos y clases en estructuras mas grandes,
  - Composite
  	- [Ver en Youtube - Composite Pattern](https://youtu.be/mbI4mriD8s8)
  - Decorator
+	- [Ver en Youtube - Decorator Pattern](https://youtu.be/5w8zuVnFjJg)
  - Facade
  - Filter
  	- [Ver en Youtube - Filter Pattern](https://youtu.be/KVTcEX8jYyY)
